@@ -23,7 +23,7 @@ pip install tqdm
 
 ### 2. Run the script
 ```bash
-python combo_search.py
+python search.py
 ```
 
 ### 3. Follow the prompts

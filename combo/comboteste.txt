@@ -1,0 +1,8 @@
+john.doe@gmail.com:password123
+maria.santos@yahoo.com:qwerty
+user_test@outlook.com:123456
+demo_user@gmail.com:demo2025
+joaovitor@example.com:pythonrocks
+contact@fakeemail.com:combosearch
+admin@domain.com:root123
+test.account@gmail.com:abc123
